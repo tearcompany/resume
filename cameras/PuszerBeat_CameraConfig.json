@@ -1,0 +1,21 @@
+{
+  "label": "PuszerBeat_CameraConfig",
+  "SensorType": "Audio-reactive Urban Lens",
+  "MovementSync": "Beat-tracked \u2014 syncs to snare and vocal entry",
+  "Resolution": "Grit-defined, variable clarity",
+  "ColorTone": "Muted concrete + warm overlay from streetlamps",
+  "LightSource": "Low \u2014 sodium orange and late dusk",
+  "MotionType": "Handheld emulation \u2014 stutter + bump tracking",
+  "Depth": "Shallow \u2014 sharp on subject, blurred periphery",
+  "ISO": 1600,
+  "ShutterSpeed": "1/40",
+  "AudioIntegration": "Dominant \u2014 triggers visual cuts and shakes",
+  "LoopIntent": "No \u2014 continuous flow narrative",
+  "LensEffect": "Minor vignette, grime overlay",
+  "FocusBehavior": "Manual pull \u2014 subject-centered",
+  "EmotionProfile": "Resigned, fierce, deeply rooted",
+  "Framing": "Close crop with occasional crowd pan",
+  "TemporalFeel": "Linear grind with echo pulses",
+  "Sound": "Hip-Hop mix \u2014 verbal density, street texture",
+  "RenderBias": "Texture over polish"
+}

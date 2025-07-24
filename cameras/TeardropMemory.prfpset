@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PremiereData>
+  <Effect>
+    <Name>TeardropMemory</Name>
+    <EffectCategory>Custom</EffectCategory>
+    <Parameters>
+      <Parameter name="VignetteAmount">0.45</Parameter>
+      <Parameter name="Feather">0.8</Parameter>
+      <Parameter name="ShadowTint">0.1,0.9,0.1</Parameter>
+      <Parameter name="HighlightTint">1.0,0.9,0.8</Parameter>
+      <Parameter name="GlitchDisplacementH">10</Parameter>
+      <Parameter name="GlitchDisplacementV">-8</Parameter>
+    </Parameters>
+  </Effect>
+</PremiereData>

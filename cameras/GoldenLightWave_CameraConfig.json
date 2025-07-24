@@ -1,0 +1,21 @@
+{
+  "label": "GoldenLightWave_CameraConfig",
+  "Resolution": "480x720 (vertical format)",
+  "FrameRate": "30 fps",
+  "Duration": "9.6 seconds (loopable)",
+  "SensorSimulation": "Digital Pulse Glow Filter",
+  "ISO": 100,
+  "ShutterSpeed": "Variable \u2014 light sync",
+  "WhiteBalance": "Golden Bias \u2014 warm spectrum",
+  "FocusBehavior": "None \u2014 ambient movement based on luminance",
+  "LightMotion": "Waveform-driven radiance",
+  "LoopIntent": "Yes \u2014 for ambient continuity",
+  "VisualTone": "Soft blooming gold with pulse rhythm",
+  "GlitchBehavior": "None \u2014 pure wave integrity",
+  "TemporalFeeling": "Sacred pause, breath between pulses",
+  "FileType": "mp4",
+  "Sound": "None \u2014 visual silence",
+  "DimensionalReach": "Light bleeds softly beyond frame on rhythm peaks",
+  "EmotionColor": "Amber/Gold spectrum to simulate warmth and awe",
+  "RenderBias": "Glow over sharpness"
+}

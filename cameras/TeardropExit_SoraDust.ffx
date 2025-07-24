@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Effect>
+  <Name>TeardropExit_SoraDust</Name>
+  <MatchName>ADBE TeardropExit_SoraDust</MatchName>
+  <Effect name="Soft Focus" matchname="ADBE Gaussian Blur">
+    <Property name="Blurriness">12</Property>
+  </Effect>
+  <Effect name="Glow" matchname="ADBE Glow">
+    <Property name="Glow Radius">80</Property>
+    <Property name="Glow Intensity">0.7</Property>
+  </Effect>
+  <Effect name="Displacement Map" matchname="ADBE Displacement Map">
+    <Property name="Horizontal Displacement">4</Property>
+    <Property name="Vertical Displacement">-4</Property>
+  </Effect>
+  <Effect name="Vignette" matchname="ADBE Vignette">
+    <Property name="Amount">35</Property>
+    <Property name="Feather">100</Property>
+  </Effect>
+</Effect>

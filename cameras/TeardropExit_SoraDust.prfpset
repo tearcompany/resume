@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PremiereData>
+  <Effect>
+    <Name>TeardropExit_SoraDust</Name>
+    <EffectCategory>Custom</EffectCategory>
+    <Parameters>
+      <Parameter name="SoftFocusBlur">12</Parameter>
+      <Parameter name="GlowIntensity">0.7</Parameter>
+      <Parameter name="GlowRadius">80</Parameter>
+      <Parameter name="DisplacementX">4</Parameter>
+      <Parameter name="DisplacementY">-4</Parameter>
+      <Parameter name="VignetteAmount">35</Parameter>
+      <Parameter name="VignetteFeather">100</Parameter>
+    </Parameters>
+  </Effect>
+</PremiereData>

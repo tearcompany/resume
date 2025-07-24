@@ -1,0 +1,1 @@
+Remiks CSV jako wersy, mantry, cykle. Działa przez dotyk danych.

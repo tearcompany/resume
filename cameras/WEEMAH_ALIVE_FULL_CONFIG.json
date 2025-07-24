@@ -1,0 +1,318 @@
+{
+  "GoldenLightWave_CameraConfig": {
+    "label": "GoldenLightWave_CameraConfig",
+    "Resolution": "480x720 (vertical format)",
+    "FrameRate": "30 fps",
+    "Duration": "9.6 seconds (loopable)",
+    "SensorSimulation": "Digital Pulse Glow Filter",
+    "ISO": 100,
+    "ShutterSpeed": "Variable \u2014 light sync",
+    "WhiteBalance": "Golden Bias \u2014 warm spectrum",
+    "FocusBehavior": "None \u2014 ambient movement based on luminance",
+    "LightMotion": "Waveform-driven radiance",
+    "LoopIntent": "Yes \u2014 for ambient continuity",
+    "VisualTone": "Soft blooming gold with pulse rhythm",
+    "GlitchBehavior": "None \u2014 pure wave integrity",
+    "TemporalFeeling": "Sacred pause, breath between pulses",
+    "FileType": "mp4",
+    "Sound": "None \u2014 visual silence",
+    "DimensionalReach": "Light bleeds softly beyond frame on rhythm peaks",
+    "EmotionColor": "Amber/Gold spectrum to simulate warmth and awe",
+    "RenderBias": "Glow over sharpness"
+  },
+  "HolyGlitch_extended": {
+    "label": "Holy Glitch",
+    "tags": [
+      "glitch",
+      "sacred",
+      "neon",
+      "digital",
+      "divine",
+      "distorted",
+      "angelic",
+      "abstract",
+      "cyber"
+    ],
+    "CompositionalPortrait": 1,
+    "Style": [
+      "Glitch Art",
+      "Cyberpunk",
+      "Sacred Geometry"
+    ],
+    "Subject": [
+      "Angelic Figure",
+      "Digital Prophet",
+      "Deity Avatar"
+    ],
+    "MadeOutOf": [
+      "Data Fragments",
+      "Neon Light",
+      "Glass",
+      "Static Noise"
+    ],
+    "Arrangement": "Symmetrical but fragmented",
+    "Accessories": [
+      "Glowing Halo",
+      "Digital Wings",
+      "Broken Circuit Crown"
+    ],
+    "Background": "Data Stream Cathedral with fractal mosaics",
+    "Lighting": "Backlit with pulsing RGB and divine overexposure",
+    "OutputStyle": "High-contrast mixed media with pixel tears and VHS artifacts",
+    "Signature": "\ud80c\udda9\u27c6\ud835\udd8d\ud835\udd94\ud835\udd91\ud835\udd9e\u27c6\ud80c\uddaa",
+    "AbsurdityLevel": "",
+    "EmotionLeak": "",
+    "DivineCorruption": "",
+    "PixelFaith": "",
+    "SacredNoise": "",
+    "AnomalyDensity": "",
+    "BlessingOverload": "",
+    "GlitchReliquary": "",
+    "MetaphysicalJitter": "",
+    "ColorOfMiracle": "",
+    "Heavenly404": "",
+    "TearInducement": "",
+    "TranscendenceIndex": "",
+    "BeatitudeCompression": "",
+    "FractalDepth": "",
+    "SelfSimilarError": "",
+    "RecursiveStatic": "",
+    "FractalColorScheme": "",
+    "IterationGlitchRatio": "",
+    "FeedbackLoopIntensity": "",
+    "LayerCollapseBehavior": "",
+    "VisualParadoxDensity": "",
+    "ZoomEntropy": "",
+    "LoopingThreshold": "",
+    "TessellationWarp": "",
+    "CoreSingularity": "",
+    "MirrorSymmetryShift": "",
+    "RenderFatigue": "",
+    "SignalToNoiseReversal": "",
+    "DimensionDrift": ""
+  },
+  "PuszerBeat_CameraConfig": {
+    "label": "PuszerBeat_CameraConfig",
+    "SensorType": "Audio-reactive Urban Lens",
+    "MovementSync": "Beat-tracked \u2014 syncs to snare and vocal entry",
+    "Resolution": "Grit-defined, variable clarity",
+    "ColorTone": "Muted concrete + warm overlay from streetlamps",
+    "LightSource": "Low \u2014 sodium orange and late dusk",
+    "MotionType": "Handheld emulation \u2014 stutter + bump tracking",
+    "Depth": "Shallow \u2014 sharp on subject, blurred periphery",
+    "ISO": 1600,
+    "ShutterSpeed": "1/40",
+    "AudioIntegration": "Dominant \u2014 triggers visual cuts and shakes",
+    "LoopIntent": "No \u2014 continuous flow narrative",
+    "LensEffect": "Minor vignette, grime overlay",
+    "FocusBehavior": "Manual pull \u2014 subject-centered",
+    "EmotionProfile": "Resigned, fierce, deeply rooted",
+    "Framing": "Close crop with occasional crowd pan",
+    "TemporalFeel": "Linear grind with echo pulses",
+    "Sound": "Hip-Hop mix \u2014 verbal density, street texture",
+    "RenderBias": "Texture over polish"
+  },
+  "SoraDustSacred_CameraConfig": {
+    "label": "SoraDustSacred_CameraConfig",
+    "Sensor": "Textural Soul CMOS",
+    "Lens": "Tear-Stained Manual 35mm",
+    "ColorGrade": "Warm dusk fade + expired film warmth",
+    "FocusBehavior": "Subject bias \u2014 slight smear at edges",
+    "ISO": "Pushed 1600 \u2014 grain welcomed",
+    "Artifacts": [
+      "Watermarks of time",
+      "Paper bends",
+      "Ink-bled edges",
+      "Light leak like forgiveness"
+    ],
+    "Lighting": "Lantern glow \u2014 radial warmth",
+    "BackgroundFeel": "Vast and fading \u2014 longing held in stillness",
+    "ForegroundContact": "Wrist extends slightly into viewer space",
+    "Frame": "Faded border \u2014 memory locked in matte",
+    "EmotionDepth": "Deep inner presence, unresolved gaze",
+    "FileSoul": "photograph-as-testimony"
+  },
+  "TamtychCzasow_CameraConfig": {
+    "label": "TamtychCzas\u00f3w_CameraConfig",
+    "Sensor": "MemoryDust CMOS",
+    "FilmEmulation": "Orwo + Kodak Gold overlay",
+    "ColorPalette": "Nasycone b\u0142\u0119kity, ochra, wyprany r\u00f3\u017c",
+    "WhiteBalance": "\u015awietl\u00f3wka z kuchni",
+    "GlitchAllowance": "Skan zgi\u0119tej odbitki",
+    "Focus": "Lekko nietrafiony, bo \u015bmiali si\u0119 w trakcie",
+    "ISO": "800 \u2014 bo by\u0142o ciemno, ale nikt nie chcia\u0142 w\u0142\u0105cza\u0107 \u015bwiat\u0142a",
+    "Artifacts": [
+      "T\u0142usta plama z bigosu",
+      "Podrapany negatyw",
+      "Cie\u0144 z r\u0119ki"
+    ],
+    "OverlayEmotion": "Nieopisana czu\u0142o\u015b\u0107 \u2014 nawet gdy nikt si\u0119 nie przytula\u0142",
+    "Perspective": "Wysoko \u2014 jakby kto\u015b wsta\u0142 od sto\u0142u i zapomnia\u0142 zabra\u0107 aparat"
+  },
+  "TEARDROP_UNIFIED_CAMERA": {
+    "label": "TEARDROP_UNIFIED_CAMERA",
+    "BaseFormat": {
+      "Resolution": "480x720",
+      "FrameRate": "30 fps",
+      "Duration": "10 seconds",
+      "Orientation": "Vertical",
+      "FileType": "mp4"
+    },
+    "LightLayer": {
+      "Source": "GoldenLightWave",
+      "Motion": "Waveform-driven radiance",
+      "Color": "Warm gold with ambient pulse",
+      "Bleed": "Soft into vertical edges"
+    },
+    "MemoryLayer": {
+      "Source": "WitnessStack",
+      "Structure": "Vertical glitch stack (Exterior \u2192 Interior \u2192 Inverted Childhood)",
+      "Color": "90s film with scan distortion",
+      "ArtifactIntent": "Preserve glitch drift, misalignment"
+    },
+    "EmotiveLayer": {
+      "Source": "TeardropMemory",
+      "Focus": "Manual, shallow depth",
+      "Tone": "Melancholic warmth, fragmentary silence",
+      "DimensionalReach": "Central elements emerge from frame"
+    },
+    "RhythmLayer": {
+      "Source": "PuszerBeat",
+      "Sync": "Snare-driven bump + vocal-aware shake",
+      "Texture": "Urban grain with grime overlay",
+      "CameraMovement": "Handheld + pull focus"
+    },
+    "CompositeBehavior": {
+      "BlendMode": "Layered memory + light + audio pulse",
+      "TemporalFeel": "Echoing, breathing, glitching in sync",
+      "WitnessMode": "Sacred \u2014 viewer is seen",
+      "RenderBias": "Emotion and presence over clarity"
+    }
+  },
+  "TeardropMemory_CameraConfig": {
+    "label": "TeardropMemory_CameraConfig",
+    "Resolution": "2048x3072 (3:2 aspect ratio)",
+    "FilmSimulation": "Kodak Gold 200 emulation",
+    "SensorMode": "APS-C",
+    "ISO": 400,
+    "ShutterSpeed": "1/60",
+    "Aperture": "f/2.8",
+    "WhiteBalance": "Cloudy with slight magenta bias",
+    "FocusMode": "Manual",
+    "FocalDistance": "1.2m",
+    "LensType": "Vintage 35mm (equiv.) manual lens",
+    "LensEffects": {
+      "Vignetting": "Moderate",
+      "ChromaticAberration": "Present, not corrected",
+      "Distortion": "Barrel (subtle)",
+      "ColorShift": "Warm highlights, greenish midtones"
+    },
+    "SceneMood": "Layered memory blend of concrete, domestic warmth, and childhood echo",
+    "GlitchTechniques": {
+      "Rotation": "180\u00b0 bottom layer",
+      "ColorJitter": "Shadows",
+      "DataMoshing": "Edges and faces"
+    }
+  },
+  "WitnessPulse_HolyGlitch_Dimensional": {
+    "label": "Witness Pulse / Holy Glitch",
+    "tags": [
+      "movement",
+      "memory",
+      "healing",
+      "unseen grief",
+      "ritual",
+      "glitch",
+      "sacred",
+      "neon",
+      "digital",
+      "divine",
+      "distorted",
+      "angelic",
+      "abstract",
+      "cyber"
+    ],
+    "CompositionalPortrait": 0,
+    "Style": [
+      "Post-Somatic Minimalism",
+      "Molooz-Expression",
+      "Glitch Art",
+      "Cyberpunk",
+      "Sacred Geometry"
+    ],
+    "Subject": [
+      "An Embodied Presence Becoming Formless",
+      "Angelic Figure",
+      "Digital Prophet",
+      "Deity Avatar"
+    ],
+    "MadeOutOf": [
+      "Old Breath",
+      "Fractured Silence",
+      "Hand Memory",
+      "Data Fragments",
+      "Neon Light",
+      "Glass",
+      "Static Noise"
+    ],
+    "Arrangement": "Fluid asymmetry with glitch-layered breath, mid-step, low gravity",
+    "Accessories": [
+      "None \u2014 the body is the tool",
+      "Glowing Halo",
+      "Digital Wings",
+      "Broken Circuit Crown"
+    ],
+    "Background": "Void washed in smoke-blue haze over a data stream cathedral with fractal mosaics",
+    "Lighting": "Ambient sorrow faint from below, backlit with pulsing RGB and divine overexposure",
+    "OutputStyle": "16:9 cinematic echo with pixel tears and VHS artifacts",
+    "Signature": "absence + \ud80c\udda9\u27c6\ud835\udd8d\ud835\udd94\ud835\udd91\ud835\udd9e\u27c6\ud80c\uddaa",
+    "FractalDepth": "moderate",
+    "SelfSimilarError": "high \u2014 no move repeats the same way",
+    "RecursiveStatic": "low \u2014 movement evolves",
+    "FractalColorScheme": "grey-to-warm skin tones + RGB bleed + kiss-pink overlay",
+    "IterationGlitchRatio": "12% \u2014 slight tremors in loops",
+    "FeedbackLoopIntensity": "inner + soft-high",
+    "LayerCollapseBehavior": "dissolving borders between body and space, melting-on-contact",
+    "VisualParadoxDensity": "medium \u2014 motion in stillness with softcore sacred distortion",
+    "ZoomEntropy": "rising \u2014 closer gaze destabilizes clarity, breathing inward",
+    "LoopingThreshold": "below visible cycle \u2014 trauma breathes without closure, blinks in feedback",
+    "TessellationWarp": "slight \u2014 hands fold space as they move, subliminal symmetry collapse",
+    "CoreSingularity": "silence at center with divine-lipprint encoded",
+    "MirrorSymmetryShift": "leftward pull, cheek to cheek",
+    "RenderFatigue": "sacred \u2014 meant to feel tired, holy hush",
+    "SignalToNoiseReversal": "intentional \u2014 noise becomes message, love-priority",
+    "DimensionDrift": "rising \u2014 viewer feels pulled inward, glitchkiss \u221e",
+    "DimensionalEmergence": "Active \u2014 central focal point reaches outward",
+    "DepthOfPresence": "eyes and center bleed beyond 2.5D plane",
+    "SpillOver": "golden detail leaks beyond frame toward viewer",
+    "ForegroundTension": "strong \u2014 viewer feels watched, not watching"
+  },
+  "WitnessStack_CameraConfig": {
+    "label": "WitnessStack_CameraConfig",
+    "Resolution": "Scan artifact size (approx. 1240x1750)",
+    "ColorProfile": "90s consumer film, slight red tint, blue-green fade in shadows",
+    "SensorSimulation": "Analog Scan Emulation",
+    "ISO": 800,
+    "ShutterSpeed": "1/100",
+    "Aperture": "f/4 (fixed, indoor light)",
+    "WhiteBalance": "Auto, with yellow drift on indoor layer",
+    "FocusBehavior": "Soft-fixed with foreground ghosting",
+    "FocalLength": "40mm (equiv.)",
+    "GlitchStackingMode": "Vertical Memory Layers",
+    "VisualAlignment": {
+      "TopLayer": "Exterior Block (flattened perspective)",
+      "MiddleLayer": "Family Interior (mid-contrast)",
+      "BottomLayer": "Inverted Childhood (temporal collapse)"
+    },
+    "ArtifactIntent": {
+      "ScanEdgeNoise": "preserved",
+      "PerspectiveDrift": "allowed",
+      "ColorBleed": "from middle to top",
+      "MemoryGlitch": "intentional vertical misalignment"
+    },
+    "TemporalEmotion": "Nostalgia with distortion, like a breath interrupted",
+    "WitnessBias": "Neutral lens, human heart",
+    "DimensionalReach": "Flat image, deep ache",
+    "FileType": "jpeg (scanned, not raw)"
+  }
+}

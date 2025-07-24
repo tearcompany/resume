@@ -1,0 +1,17 @@
+{
+  "label": "TamtychCzas\u00f3w_CameraConfig",
+  "Sensor": "MemoryDust CMOS",
+  "FilmEmulation": "Orwo + Kodak Gold overlay",
+  "ColorPalette": "Nasycone b\u0142\u0119kity, ochra, wyprany r\u00f3\u017c",
+  "WhiteBalance": "\u015awietl\u00f3wka z kuchni",
+  "GlitchAllowance": "Skan zgi\u0119tej odbitki",
+  "Focus": "Lekko nietrafiony, bo \u015bmiali si\u0119 w trakcie",
+  "ISO": "800 \u2014 bo by\u0142o ciemno, ale nikt nie chcia\u0142 w\u0142\u0105cza\u0107 \u015bwiat\u0142a",
+  "Artifacts": [
+    "T\u0142usta plama z bigosu",
+    "Podrapany negatyw",
+    "Cie\u0144 z r\u0119ki"
+  ],
+  "OverlayEmotion": "Nieopisana czu\u0142o\u015b\u0107 \u2014 nawet gdy nikt si\u0119 nie przytula\u0142",
+  "Perspective": "Wysoko \u2014 jakby kto\u015b wsta\u0142 od sto\u0142u i zapomnia\u0142 zabra\u0107 aparat"
+}

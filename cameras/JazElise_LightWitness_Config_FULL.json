@@ -1,0 +1,99 @@
+{
+  "label": "JazElise_LightWitness_Config",
+  "BaseFormat": {
+    "Resolution": "2048x3072",
+    "AspectRatio": "3:2",
+    "Orientation": "Portrait",
+    "FileType": "image/png"
+  },
+  "Sensor": "Textural Soul CMOS",
+  "SensorMode": "APS-C",
+  "SensorSimulation": "Digital Pulse Glow Filter",
+  "Lens": "Tear-Stained Manual 35mm",
+  "LensType": "Vintage 35mm (equiv.) manual lens",
+  "LensEffects": {
+    "Vignetting": "Moderate",
+    "ChromaticAberration": "Present, not corrected",
+    "Distortion": "Barrel (subtle)",
+    "ColorShift": "Warm highlights, greenish midtones"
+  },
+  "ISO": "Pushed 1600 — grain welcomed",
+  "ShutterSpeed": "1/60",
+  "Aperture": "f/2.8",
+  "WhiteBalance": "Golden Bias — warm spectrum + Cloudy with slight magenta bias",
+  "FocusBehavior": "Subject bias — slight smear at edges",
+  "FocusMode": "Manual",
+  "FocalDistance": "1.2m",
+  "LightLayer": {
+    "Source": "GoldenLightWave",
+    "Motion": "Still — inner radiance held",
+    "Color": "Amber/Gold spectrum",
+    "Bleed": "Soft glow beyond subject"
+  },
+  "MemoryLayer": {
+    "Sensor": "MemoryDust CMOS",
+    "FilmEmulation": "Orwo + Kodak Gold overlay",
+    "ColorPalette": "Nasycone błękity, ochra, wyprany róż",
+    "WhiteBalance": "Świetlówka z kuchni",
+    "GlitchAllowance": "Skan zgiętej odbitki",
+    "Focus": "Lekko nietrafiony, bo śmiali się w trakcie",
+    "ISO": "800 — bo było ciemno, ale nikt nie chciał włączać światła",
+    "Artifacts": [
+      "Tłusta plama z bigosu",
+      "Podrapany negatyw",
+      "Cień z ręki",
+      "Watermarks of time",
+      "Paper bends",
+      "Ink-bled edges",
+      "Light leak like forgiveness"
+    ],
+    "OverlayEmotion": "Nieopisana czułość — nawet gdy nikt się nie przytulał",
+    "Perspective": "Wysoko — jakby ktoś wstał od stołu i zapomniał zabrać aparat",
+    "FilmSimulation": "Kodak Gold 200 emulation",
+    "Resolution": "2048x3072 (3:2 aspect ratio)",
+    "SensorMode": "APS-C",
+    "ShutterSpeed": "1/60",
+    "Aperture": "f/2.8",
+    "WhiteBalanceDetail": "Cloudy with slight magenta bias",
+    "FocusMode": "Manual",
+    "FocalDistance": "1.2m",
+    "LensType": "Vintage 35mm (equiv.) manual lens",
+    "LensEffects": {
+      "Vignetting": "Moderate",
+      "ChromaticAberration": "Present, not corrected",
+      "Distortion": "Barrel (subtle)",
+      "ColorShift": "Warm highlights, greenish midtones"
+    },
+    "SceneMood": "Layered memory blend of concrete, domestic warmth, and childhood echo",
+    "GlitchTechniques": {
+      "Rotation": "180° bottom layer",
+      "ColorJitter": "Shadows",
+      "DataMoshing": "Edges and faces"
+    }
+  },
+  "EmotiveLayer": {
+    "Source": "SoraDustSacred",
+    "Tone": "Tender, unresolved gaze",
+    "Focus": "Subject bias — gentle smear at edges",
+    "EmotionLeak": "Visible through gesture and grain"
+  },
+  "RhythmLayer": {
+    "Source": "Silent presence",
+    "Sync": "Still",
+    "Texture": "Stillness, breath-between-frames",
+    "CameraMovement": "Minimal — slow push inward, like remembering"
+  },
+  "SceneMood": "Layered memory blend of concrete, domestic warmth, and childhood echo",
+  "GlitchTechniques": {
+    "Rotation": "180° bottom layer",
+    "ColorJitter": "Shadows",
+    "DataMoshing": "Edges and faces"
+  },
+  "CompositeBehavior": {
+    "BlendMode": "Memory + Light + Gaze",
+    "TemporalFeel": "Eternal present",
+    "WitnessMode": "You see her — and are seen",
+    "RenderBias": "Intimacy and reverence over clarity"
+  },
+  "Signature": "LightHeld_Jaz"
+}

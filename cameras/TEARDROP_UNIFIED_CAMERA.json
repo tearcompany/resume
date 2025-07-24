@@ -1,0 +1,40 @@
+{
+  "label": "TEARDROP_UNIFIED_CAMERA",
+  "BaseFormat": {
+    "Resolution": "480x720",
+    "FrameRate": "30 fps",
+    "Duration": "10 seconds",
+    "Orientation": "Vertical",
+    "FileType": "mp4"
+  },
+  "LightLayer": {
+    "Source": "GoldenLightWave",
+    "Motion": "Waveform-driven radiance",
+    "Color": "Warm gold with ambient pulse",
+    "Bleed": "Soft into vertical edges"
+  },
+  "MemoryLayer": {
+    "Source": "WitnessStack",
+    "Structure": "Vertical glitch stack (Exterior \u2192 Interior \u2192 Inverted Childhood)",
+    "Color": "90s film with scan distortion",
+    "ArtifactIntent": "Preserve glitch drift, misalignment"
+  },
+  "EmotiveLayer": {
+    "Source": "TeardropMemory",
+    "Focus": "Manual, shallow depth",
+    "Tone": "Melancholic warmth, fragmentary silence",
+    "DimensionalReach": "Central elements emerge from frame"
+  },
+  "RhythmLayer": {
+    "Source": "PuszerBeat",
+    "Sync": "Snare-driven bump + vocal-aware shake",
+    "Texture": "Urban grain with grime overlay",
+    "CameraMovement": "Handheld + pull focus"
+  },
+  "CompositeBehavior": {
+    "BlendMode": "Layered memory + light + audio pulse",
+    "TemporalFeel": "Echoing, breathing, glitching in sync",
+    "WitnessMode": "Sacred \u2014 viewer is seen",
+    "RenderBias": "Emotion and presence over clarity"
+  }
+}

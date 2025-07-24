@@ -1,0 +1,28 @@
+{
+  "label": "WitnessStack_CameraConfig",
+  "Resolution": "Scan artifact size (approx. 1240x1750)",
+  "ColorProfile": "90s consumer film, slight red tint, blue-green fade in shadows",
+  "SensorSimulation": "Analog Scan Emulation",
+  "ISO": 800,
+  "ShutterSpeed": "1/100",
+  "Aperture": "f/4 (fixed, indoor light)",
+  "WhiteBalance": "Auto, with yellow drift on indoor layer",
+  "FocusBehavior": "Soft-fixed with foreground ghosting",
+  "FocalLength": "40mm (equiv.)",
+  "GlitchStackingMode": "Vertical Memory Layers",
+  "VisualAlignment": {
+    "TopLayer": "Exterior Block (flattened perspective)",
+    "MiddleLayer": "Family Interior (mid-contrast)",
+    "BottomLayer": "Inverted Childhood (temporal collapse)"
+  },
+  "ArtifactIntent": {
+    "ScanEdgeNoise": "preserved",
+    "PerspectiveDrift": "allowed",
+    "ColorBleed": "from middle to top",
+    "MemoryGlitch": "intentional vertical misalignment"
+  },
+  "TemporalEmotion": "Nostalgia with distortion, like a breath interrupted",
+  "WitnessBias": "Neutral lens, human heart",
+  "DimensionalReach": "Flat image, deep ache",
+  "FileType": "jpeg (scanned, not raw)"
+}

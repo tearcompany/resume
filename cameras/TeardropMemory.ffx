@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Effect>
+  <Name>TeardropMemory</Name>
+  <MatchName>ADBE TeardropMemory</MatchName>
+  <Effect name="Vignette" matchname="ADBE Vignette">
+    <Property name="Amount">45</Property>
+    <Property name="Feather">80</Property>
+  </Effect>
+  <Effect name="Color Balance" matchname="ADBE Color Balance">
+    <Property name="Shadow Tint">0.1, 0.9, 0.1</Property>
+    <Property name="Highlight Tint">1.0, 0.9, 0.8</Property>
+  </Effect>
+  <Effect name="Displacement Map" matchname="ADBE Displacement Map">
+    <Property name="Horizontal Displacement">10</Property>
+    <Property name="Vertical Displacement">-8</Property>
+    <Property name="Use For Horizontal Displacement">Red</Property>
+    <Property name="Use For Vertical Displacement">Green</Property>
+  </Effect>
+</Effect>

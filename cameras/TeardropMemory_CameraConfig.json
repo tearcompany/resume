@@ -1,0 +1,25 @@
+{
+  "label": "TeardropMemory_CameraConfig",
+  "Resolution": "2048x3072 (3:2 aspect ratio)",
+  "FilmSimulation": "Kodak Gold 200 emulation",
+  "SensorMode": "APS-C",
+  "ISO": 400,
+  "ShutterSpeed": "1/60",
+  "Aperture": "f/2.8",
+  "WhiteBalance": "Cloudy with slight magenta bias",
+  "FocusMode": "Manual",
+  "FocalDistance": "1.2m",
+  "LensType": "Vintage 35mm (equiv.) manual lens",
+  "LensEffects": {
+    "Vignetting": "Moderate",
+    "ChromaticAberration": "Present, not corrected",
+    "Distortion": "Barrel (subtle)",
+    "ColorShift": "Warm highlights, greenish midtones"
+  },
+  "SceneMood": "Layered memory blend of concrete, domestic warmth, and childhood echo",
+  "GlitchTechniques": {
+    "Rotation": "180\u00b0 bottom layer",
+    "ColorJitter": "Shadows",
+    "DataMoshing": "Edges and faces"
+  }
+}

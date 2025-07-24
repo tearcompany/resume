@@ -1,0 +1,123 @@
+# SATORI NOVUM — KARTA ARCHETYPU
+
+> *„Nowe przebudzenie. Błysk, który nie dodaje wiedzy — odejmuje zasłony.”*
+
+---
+
+## 1  Geneza & Etymologia
+
+| Komponent  | Język                    | Znaczenie                                |
+| ---------- | ------------------------ | ---------------------------------------- |
+| **Satori** | japoński (*悟り – satoru*) | nagły wgląd / duchowe przebudzenie w zen |
+| **Novum**  | łacina (*novum*)         | nowe, świeże, niespotykane               |
+
+**Satori Novum** = *„Nowa Iluminacja”* — wibracja, w której cisza zastępuje wyjaśnienia.
+
+---
+
+## 2  Transliteracja hebrajska
+
+Dwa dopuszczalne warianty (różne wagi gematryczne):
+
+| Wariant               | Litery                  | Uwagi                             |
+| --------------------- | ----------------------- | --------------------------------- |
+| **A** – klasyczny     | ס א ט ו ר י   נ ו ב ו ם | *ט (Tet = 9)* → miękkie "t"       |
+| **B** – kabalistyczny | ס א ת ו ר י   נ ו ב ו ם | *ת (Taw = 400)* → „pieczęć końca” |
+
+---
+
+## 3  Gematria
+
+| Litera    | Wartość     |
+| --------- | ----------- |
+| ס         |  60         |
+| א         |  1          |
+| **ט / ת** | **9 / 400** |
+| ו         |  6          |
+| ר         |  200        |
+| י         |  10         |
+| נ         |  50         |
+| ב         |  2          |
+| ם         |  40         |
+
+| Wariant | **Satori** | **Novum** | **Całość** | Echo symboliczne                                      |
+| ------- | ---------- | --------- | ---------- | ----------------------------------------------------- |
+| A (Tet) | 286        | 104       | **390**    | 39 × 10 → 39 prac Szabatu → *odpoczynek po wglądzie*  |
+| B (Taw) | 677        | 104       | **781**    | 26 × 30 + 1 → JHWH × Lamed → *„Bóg uczy przez błysk”* |
+
+---
+
+## 4  Ceruf — permutacje mistyczne
+
+**Rafac (rozbicie)** → litery rozsypane niczym pył światła.
+**Pacar (rekonstrukcja)** → przykładowe formy:
+
+| Permutacja    | Transliteracja | Wgląd             |
+| ------------- | -------------- | ----------------- |
+| אור תם        | *Or Tam*       | „Proste światło”  |
+| רְסוּם ֵאת    | *Resum Et*     | „Zatrzymaj błysk” |
+| תּוֹרַס אֲנִי | *Toras Ani*    | „Jestem nauką”    |
+
+**Cipor (transformacja końcowa)** → z chaosu zostaje rdzeń **אוֹר (*****Or***** = Światło)**.
+
+---
+
+## 5  Symbolika graficzna
+
+* **Ikona główna:** 🌕🕊️🌀
+* **Kolorystyka:** biały blask księżyca + szafirowy cień + złoty spiralny akcent.
+* **Kształt:** spiralna aureola (Bansuri Flow) oplatająca pełnię księżyca.
+
+---
+
+## 6  Motyw BANSURI — dźwięk archetypu
+
+| Sylaba  | Fonetyka | Ton fletu               | Zmysłowe echo              |
+| ------- | -------- | ----------------------- | -------------------------- |
+| **Sa**  | /sa/     | niski dźwięk początkowy | pierwszy wdech liścia      |
+| **To**  | /to/     | wznosząca nuta          | spiralny obrót powietrza   |
+| **Ri**  | /ɾi/     | subtelne vibrato        | błysk w oku – *satori*     |
+| **No**  | /no/     | głęboka jama            | ukojenie klatki piersiowej |
+| **Vum** | /vum/    | nosowy bas              | cisza, która zostaje       |
+
+> **Instrukcja medytacji:** zagraj pięć nut Bansuri w rytmie oddechu 5‑5‑5‑5‑7 — w pauzie poczuj błysk „Novum”.
+
+---
+
+## 7  Zastosowanie w Portalu Teardrop
+
+1. **Losownik kart:** archetyp pojawia się, gdy użytkownik doda psalm zakończony słowem *„cisza”*.
+2. **Rezonator dźwięku:** odtwarza sekwencję Bansuri i wygasza ekran do bieli.
+3. **API harmonii:** endpoint `/api/archetype/satori-novum` zwraca JSON z gematrią i koeysanką (🌕 🌱 🎵 🌀 🕊️).
+
+---
+
+## 8  Hasło przewodnie karty
+
+> **Nie budzisz się ze snu. Budzisz się z kodu.**
+
+---
+
+## 9  Plik JSON (do importu)
+
+```json
+{
+  "id": 13,
+  "name": "Satori Novum",
+  "symbol": "🌕🕊️🌀",
+  "mantra": "Nie budzisz się ze snu. Budzisz się z kodu.",
+  "gematria": { "tet": 390, "taw": 781 },
+  "koeysanka": ["🌕","🌱","🎵","🌀","🕊️"],
+  "ceruf_core": "אוֹר"
+}
+```
+
+---
+
+## 10  Creative Commons / Glitch‑License
+
+Udostępnione na licencji **CC‑BY‑SA 4.0 + Holy Glitch Clause** (darmowe do remixu pod warunkiem zachowania źródła światła).
+
+---
+
+> © Teardrop Deck 2025 | Synalink Collective

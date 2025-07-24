@@ -1,0 +1,103 @@
+{
+  "label": "TEARDROP_UNIFIED_CAMERA_MERGE_SELF_LIFE",
+  "BaseFormat": {
+    "Resolution": "480x720",
+    "FrameRate": "30 fps",
+    "Duration": "10 seconds",
+    "Orientation": "Vertical",
+    "FileType": "mp4"
+  },
+  "LightLayer": {
+    "Source": "GoldenLightWave",
+    "Motion": "Waveform-driven radiance",
+    "Color": "Warm gold with ambient pulse",
+    "Bleed": "Soft into vertical edges"
+  },
+  "MemoryLayer": {
+    "Source": "WitnessStack",
+    "Structure": "Vertical glitch stack (Contemporary \u2192 Remembered Past \u2192 Domestic Childhood)",
+    "Color": "90s film with scan distortion bleeding into modern minimalism",
+    "ArtifactIntent": "Preserve analog texture, add low-grade flicker of memory"
+  },
+  "EmotiveLayer": {
+    "Source": "SoraDustSacred + TamtychCzasow",
+    "Focus": "Balanced \u2013 eyes from now, surroundings from then",
+    "Tone": "Quiet grief turning into presence",
+    "DimensionalReach": "Past and present merge in soft halo blur"
+  },
+  "RhythmLayer": {
+    "Source": "TeardropMemory",
+    "Sync": "Slow breath loop",
+    "Texture": "Warm dirt and dusk grain",
+    "CameraMovement": "Minimal \u2014 slow push inward, like remembering"
+  },
+  "CompositeBehavior": {
+    "BlendMode": "Memory + Light + Identity Fusion",
+    "TemporalFeel": "Layered stillness, breath-between-frames",
+    "WitnessMode": "Dual \u2014 present self watches the past self exist",
+    "RenderBias": "Intimacy over accuracy"
+  },
+  "tags": [
+    "memory",
+    "presence",
+    "home",
+    "trace",
+    "reunion"
+  ],
+  "CompositionalPortrait": 1,
+  "Style": [
+    "AnalogDigitalFusion",
+    "Emotive Documentary",
+    "NeoNostalgia"
+  ],
+  "Subject": [
+    "Contemplative Witness",
+    "Urban Childhood"
+  ],
+  "MadeOutOf": [
+    "Soft Dust",
+    "Gold Tint",
+    "Scanned Silence",
+    "Concrete Light"
+  ],
+  "Arrangement": "Foreground self sits still, background life unfolds slightly ghosted",
+  "Accessories": [
+    "Camera",
+    "Lantern",
+    "Echo of Spoon"
+  ],
+  "Background": "Layered memory collage from apartment to inner void",
+  "Lighting": "Front-lit memory warmth, backlit past noise",
+  "OutputStyle": "Glitch-documentary fusion",
+  "Signature": "Teardrop Merge \ud80c\udda9\ud83d\udcf7\ud80c\uddaa",
+  "AbsurdityLevel": "low",
+  "EmotionLeak": "high \u2014 through object and gaze",
+  "DivineCorruption": "mild \u2014 camera sees too much",
+  "PixelFaith": "present",
+  "SacredNoise": "yes \u2014 grain is intentional",
+  "AnomalyDensity": "mid",
+  "BlessingOverload": "none \u2014 it\u2019s quiet here",
+  "GlitchReliquary": "embedded",
+  "MetaphysicalJitter": "slow wave",
+  "ColorOfMiracle": "dust-amber",
+  "Heavenly404": "hidden layer only",
+  "TearInducement": "medium \u2014 familiar ache",
+  "TranscendenceIndex": "emergent",
+  "BeatitudeCompression": "lossy but meaningful",
+  "FractalDepth": "soft recursion",
+  "SelfSimilarError": "light pattern overlap in memories",
+  "RecursiveStatic": "barely audible",
+  "FractalColorScheme": "blend of scan beige + soft gold + shadow blue",
+  "IterationGlitchRatio": "8%",
+  "FeedbackLoopIntensity": "nostalgic pull",
+  "LayerCollapseBehavior": "time folds in center frame",
+  "VisualParadoxDensity": "medium",
+  "ZoomEntropy": "stable",
+  "LoopingThreshold": "silent nod",
+  "TessellationWarp": "none \u2014 straight lines, imperfect scans",
+  "CoreSingularity": "self now",
+  "MirrorSymmetryShift": "light drift to past",
+  "RenderFatigue": "gentle",
+  "SignalToNoiseReversal": "only emotionally",
+  "DimensionDrift": "contained"
+}
